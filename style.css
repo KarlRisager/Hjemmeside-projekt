@@ -1,0 +1,40 @@
+body {
+  background-image: url("baggrund.jpg");
+  min-height: 500px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.forside{
+  height: 300px;
+}
+
+
+.underspace {margin-top: 20px;}
+
+.mellemrum{
+height: 30px;
+}
+
+.smal {
+  height: 30px;
+}
+
+.top_space{
+  padding-top: 25px;
+}
+
+.sider{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.moveright {
+  padding-left: 215px;
+}
+
+.toppadding{
+  padding-top: 15px;
+}
